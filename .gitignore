@@ -1,0 +1,6 @@
+.DS_Store
+secrets.txt
+
+#Comments here
+
+#can also use wild cards, like *.txt
